@@ -1,0 +1,11 @@
+DateIssue,DateForecast,ReportingArea,StateCode,Latitude,Longitude,ParameterName,AQI,Category,ActionDay
+2018-04-08 ,2018-04-09 ,Southeast LA CO,CA,33.9345,-118.0916,O3,37,"{'Number': 1, 'Name': 'Good'}",False
+2018-04-08 ,2018-04-09 ,Southeast LA CO,CA,33.9345,-118.0916,PM2.5,66,"{'Number': 2, 'Name': 'Moderate'}",False
+2018-04-08 ,2018-04-09 ,Southeast LA CO,CA,33.9345,-118.0916,PM10,32,"{'Number': 1, 'Name': 'Good'}",False
+2018-04-08 ,2018-04-09 ,Southeast LA CO,CA,33.9345,-118.0916,NO2,20,"{'Number': 1, 'Name': 'Good'}",False
+2018-04-08 ,2018-04-09 ,Southeast LA CO,CA,33.9345,-118.0916,CO,15,"{'Number': 1, 'Name': 'Good'}",False
+2018-04-09 ,2018-04-10 ,Southeast LA CO,CA,33.9345,-118.0916,O3,37,"{'Number': 1, 'Name': 'Good'}",False
+2018-04-09 ,2018-04-10 ,Southeast LA CO,CA,33.9345,-118.0916,PM2.5,61,"{'Number': 2, 'Name': 'Moderate'}",False
+2018-04-09 ,2018-04-10 ,Southeast LA CO,CA,33.9345,-118.0916,PM10,30,"{'Number': 1, 'Name': 'Good'}",False
+2018-04-09 ,2018-04-10 ,Southeast LA CO,CA,33.9345,-118.0916,NO2,20,"{'Number': 1, 'Name': 'Good'}",False
+2018-04-09 ,2018-04-10 ,Southeast LA CO,CA,33.9345,-118.0916,CO,15,"{'Number': 1, 'Name': 'Good'}",False
