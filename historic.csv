@@ -1,0 +1,5 @@
+DateObserved,HourObserved,LocalTimeZone,ReportingArea,StateCode,Latitude,Longitude,ParameterName,AQI,Category
+,,,,,,,,,
+4/9/2018,0,PST,Redwood City,CA,37.48,-122.22,OZONE,35,"{'Number': 1, 'Name': 'Good'}"
+,,,,,,,,,
+4/9/2018,0,PST,Redwood City,CA,37.48,-122.22,PM2.5,46,"{'Number': 1, 'Name': 'Good'}"
