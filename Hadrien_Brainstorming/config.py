@@ -1,2 +1,0 @@
-api_key = "E2D50D6C-9124-4349-8C9A-96C411439052"
-#airnow api
