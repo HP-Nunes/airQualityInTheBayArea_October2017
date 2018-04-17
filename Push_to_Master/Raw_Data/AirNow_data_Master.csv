@@ -1,0 +1,1061 @@
+,Unnamed: 0,Unnamed: 0.1,zip,AQI,Category,DateObserved,HourObserved,Latitude,LocalTimeZone,Longitude,ParameterName,ReportingArea,StateCode
+0,0,0,95015,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2,2,2,94505,45,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.9699,PST,-121.3067,OZONE,Stockton,CA
+4,4,4,95486,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+6,6,6,94524,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+8,8,8,94542,49,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+10,10,10,94506,39,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+12,12,12,94547,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+14,14,14,95377,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.9699,PST,-121.3067,OZONE,Stockton,CA
+16,16,16,94562,48,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+18,18,18,95445,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,39.4117,PST,-123.3526,OZONE,Mendocino County,CA
+21,21,21,95154,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+23,23,23,95406,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+25,25,25,94044,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+27,27,27,94014,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+29,29,29,94603,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+31,31,31,95430,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+33,33,33,94533,44,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+35,35,35,94303,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+36,36,36,94020,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+38,38,38,95136,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+40,40,40,95158,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+42,42,42,94089,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+44,44,44,94582,74,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+46,46,46,94561,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+48,48,48,95023,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,36.8442,PST,-121.361,OZONE,Hollister,CA
+51,51,51,94111,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+53,53,53,95173,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+55,55,55,95120,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+57,57,57,94620,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+59,59,59,95616,34,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.5448,PST,-121.7411,OZONE,Davis,CA
+61,61,61,94549,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+63,63,63,94931,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+65,65,65,95127,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+67,67,67,94701,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+69,69,69,94110,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+71,71,71,94579,49,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+73,73,73,94121,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+75,75,75,95013,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+77,77,77,94703,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+79,79,79,94557,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+80,80,80,94612,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+82,82,82,94035,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+84,84,84,94615,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+86,86,86,94083,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+88,88,88,95446,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+90,90,90,94114,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+92,92,92,94559,48,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+94,94,94,94706,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+96,96,96,94525,49,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+98,98,98,95696,36,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+100,100,100,95119,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+102,102,102,94946,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+104,104,104,94541,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+106,106,106,94042,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+107,107,107,94708,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+109,109,109,94621,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+111,111,111,94578,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+113,113,113,95037,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+115,115,115,94920,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+117,117,117,95421,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+119,119,119,95133,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+121,121,121,94599,48,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+123,123,123,94019,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+125,125,125,94611,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+127,127,127,94521,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+129,129,129,94563,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+131,131,131,94123,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+133,133,133,94551,74,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+135,135,135,94501,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+137,137,137,94589,44,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+139,139,139,95117,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+141,141,141,95131,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+143,143,143,94927,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+145,145,145,95404,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+147,147,147,95046,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+149,149,149,94569,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+151,151,151,94576,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+153,153,153,94040,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+154,154,154,94948,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+156,156,156,95055,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+158,158,158,94108,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+160,160,160,94129,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+162,162,162,95151,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+164,164,164,94613,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+166,166,166,94952,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+168,168,168,94146,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+170,170,170,94015,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+172,172,172,94974,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+174,174,174,95118,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+176,176,176,94026,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+178,178,178,95442,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+180,180,180,94543,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+182,182,182,95132,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+184,184,184,94304,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+185,185,185,94564,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+187,187,187,94552,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+189,189,189,94940,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+191,191,191,94573,153,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-15 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+192,192,192,94707,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+194,194,194,94922,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+196,196,196,94606,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+198,198,198,94925,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+200,200,200,94560,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+202,202,202,95148,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+204,204,204,95436,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+206,206,206,95052,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+208,208,208,94591,44,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+210,210,210,94803,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+212,212,212,95160,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+214,214,214,94502,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+216,216,216,94966,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+218,218,218,94590,41,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+220,220,220,95108,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+222,222,222,94545,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+224,224,224,94610,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+226,226,226,94302,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+227,227,227,94570,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+229,229,229,94976,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+231,231,231,94574,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+233,233,233,94002,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+235,235,235,95036,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+237,237,237,94556,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+239,239,239,94028,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+240,240,240,94125,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+242,242,242,94109,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+244,244,244,95407,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+246,246,246,94937,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+248,248,248,94550,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+250,250,250,95020,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+252,252,252,94598,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+254,254,254,94957,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+256,256,256,94023,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+257,257,257,94539,34,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+259,259,259,94565,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+261,261,261,95625,36,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+263,263,263,94595,39,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+265,265,265,94553,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+267,267,267,94402,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+269,269,269,94592,44,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+271,271,271,94117,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+273,273,273,94609,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+275,275,275,95116,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+277,277,277,94941,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+279,279,279,94133,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+281,281,281,94585,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+283,283,283,94977,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+285,285,285,94820,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+287,287,287,94572,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+289,289,289,94928,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+291,291,291,95152,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+293,293,293,94604,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+295,295,295,94536,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+297,297,297,94112,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+299,299,299,95688,42,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+301,301,301,95112,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+303,303,303,95409,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+305,305,305,94505,35,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.9699,PST,-121.3067,OZONE,Stockton,CA
+307,307,307,95009,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+309,309,309,94702,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+311,311,311,95054,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+313,313,313,94942,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+315,315,315,94041,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+317,317,317,94515,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+319,319,319,95694,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+321,321,321,94913,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+323,323,323,95103,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+325,325,325,95492,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+327,327,327,94596,39,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+329,329,329,95157,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+331,331,331,94914,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+333,333,333,94119,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+335,335,335,94807,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+337,337,337,94964,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+339,339,339,94508,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+341,341,341,95465,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+343,343,343,95441,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+345,345,345,94102,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+347,347,347,94066,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+349,349,349,95101,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+351,351,351,94115,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+353,353,353,94947,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+355,355,355,95156,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+357,357,357,94070,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+359,359,359,94088,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+361,361,361,94518,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+363,363,363,94567,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+365,365,365,95106,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+367,367,367,94555,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+368,368,368,95690,32,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.4086,PST,-121.3733,OZONE,Elk Grove,CA
+370,370,370,94520,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+372,372,372,95687,40,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+374,374,374,94018,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+376,376,376,94401,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+378,378,378,94601,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+380,380,380,95002,34,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+382,382,382,94624,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+384,384,384,94522,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+386,386,386,94164,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+388,388,388,94904,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+390,390,390,94540,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+392,392,392,94662,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+394,394,394,94122,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+396,396,396,95439,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+398,398,398,94132,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+400,400,400,95030,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+402,402,402,95056,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+404,404,404,94134,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+406,406,406,94973,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+408,408,408,94124,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+410,410,410,94105,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+412,412,412,94965,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+414,414,414,94104,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+416,416,416,95403,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+418,418,418,94306,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+420,420,420,94062,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+422,422,422,95476,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+424,424,424,94550,49,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+426,426,426,94085,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+428,428,428,94087,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+430,430,430,95402,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+432,432,432,94960,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+434,434,434,95124,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+436,436,436,94515,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+438,438,438,95448,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+440,440,440,94710,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+442,442,442,95123,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+444,444,444,95121,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+446,446,446,95011,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+448,448,448,95129,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+450,450,450,94949,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+452,452,452,94025,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+454,454,454,94010,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+455,455,455,94507,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+457,457,457,94588,43,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+459,459,459,94022,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+461,461,461,94618,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+463,463,463,94404,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+465,465,465,94158,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+467,467,467,95391,74,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+469,469,469,95452,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+471,471,471,94586,49,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+473,473,473,94945,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+475,475,475,94805,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+477,477,477,94666,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+479,479,479,94706,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+481,481,481,94903,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+483,483,483,94597,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+485,485,485,94580,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+486,486,486,94924,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+488,488,488,95487,44,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+490,490,490,94020,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+492,492,492,94912,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+494,494,494,94970,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+496,496,496,94930,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+498,498,498,94065,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+499,499,499,95033,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+501,501,501,94519,49,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+503,503,503,94574,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+505,505,505,94566,41,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+507,507,507,94305,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+509,509,509,94503,153,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-15 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+510,510,510,95161,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+512,512,512,94575,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+514,514,514,94147,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+516,516,516,95125,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+518,518,518,94534,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+520,520,520,95051,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+522,522,522,94011,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+524,524,524,94602,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+526,526,526,95014,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+528,528,528,95109,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+530,530,530,95122,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+532,532,532,94587,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+534,534,534,94938,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+536,536,536,95191,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+539,539,539,94038,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+541,541,541,94103,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+543,543,543,94143,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+545,545,545,94950,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+547,547,547,94551,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+549,549,549,94118,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+551,551,551,95140,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+553,553,553,95164,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+555,555,555,95113,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+557,557,557,94116,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+559,559,559,94591,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+561,561,561,95050,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+563,563,563,94704,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+565,565,565,94080,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+567,567,567,94017,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+569,569,569,94801,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+571,571,571,95035,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+573,573,573,95401,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+575,575,575,95419,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+577,577,577,94024,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+579,579,579,94512,51,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+581,581,581,94583,41,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+583,583,583,95031,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+585,585,585,95138,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+587,587,587,94661,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+589,589,589,95462,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+591,591,591,94608,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+593,593,593,94850,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+595,595,595,94517,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+597,597,597,94188,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+599,599,599,94037,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+601,601,601,94061,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+603,603,603,95126,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+605,605,605,94127,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+607,607,607,95444,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+609,609,609,94301,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+611,611,611,95473,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+613,613,613,94972,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+615,615,615,94530,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+617,617,617,94720,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+621,621,621,94030,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+623,623,623,94709,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+625,625,625,94516,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+627,627,627,94497,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+629,629,629,95172,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+631,631,631,95150,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+633,633,633,94014,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+635,635,635,94107,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+637,637,637,94544,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+638,638,638,94537,34,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+640,640,640,94923,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+642,642,642,94141,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+644,644,644,95472,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+648,648,648,94933,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+650,650,650,94060,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+651,651,651,94956,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+655,655,655,94039,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+657,657,657,94568,41,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+659,659,659,94558,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+661,661,661,94708,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+663,663,663,95128,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+665,665,665,94140,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+667,667,667,95618,51,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.5448,PST,-121.7411,OZONE,Davis,CA
+669,669,669,94705,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+671,671,671,94929,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+673,673,673,95110,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+675,675,675,95461,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+677,677,677,94531,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+679,679,679,94074,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+680,680,680,94510,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+682,682,682,95476,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+684,684,684,94558,44,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+686,686,686,95139,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+688,688,688,94126,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+690,690,690,95155,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+692,692,692,94546,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+694,694,694,94523,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+696,696,696,95071,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+698,698,698,94971,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+700,700,700,94131,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+702,702,702,94021,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+704,704,704,95620,40,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+706,706,706,94043,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+708,708,708,94528,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+710,710,710,95035,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+712,712,712,94558,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+714,714,714,94159,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+716,716,716,94128,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+718,718,718,94951,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+720,720,720,94619,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+722,722,722,95153,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+724,724,724,95130,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+726,726,726,94112,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+728,728,728,94130,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+730,730,730,94005,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+732,732,732,94901,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+734,734,734,94939,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+736,736,736,94514,74,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+738,738,738,94804,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+740,740,740,94526,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+742,742,742,94064,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+744,744,744,94403,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+746,746,746,95192,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+748,748,748,94707,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+750,750,750,94548,56,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.2183,PST,-121.77,PM2.5,Rio Vista,CA
+751,751,751,94535,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+753,753,753,95135,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+755,755,755,94581,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+757,757,757,95159,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+759,759,759,94514,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+761,761,761,95141,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+763,763,763,94954,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+765,765,765,94086,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+767,767,767,95471,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+769,769,769,94577,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+771,771,771,94614,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+773,773,773,94915,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+775,775,775,94611,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+777,777,777,95134,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+779,779,779,94605,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+781,781,781,95070,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+783,783,783,94063,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+785,785,785,95170,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+787,787,787,94623,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+789,789,789,95461,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+791,791,791,94028,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+793,793,793,94806,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+795,795,795,94513,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+797,797,797,94978,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+799,799,799,95111,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+801,801,801,95008,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+803,803,803,94511,75,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.2183,PST,-121.77,PM2.5,Rio Vista,CA
+804,804,804,94607,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+806,806,806,94802,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+808,808,808,94979,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+810,810,810,94963,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+812,812,812,94568,74,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+814,814,814,95405,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+817,817,817,94509,47,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+819,819,819,94712,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+821,821,821,94538,49,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+823,823,823,94027,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+825,825,825,95032,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+827,827,827,94571,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,38.2183,PST,-121.77,PM2.5,Rio Vista,CA
+828,0,0,94930,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+830,2,2,94601,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+832,4,4,94571,98,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,38.2183,PST,-121.77,PM2.5,Rio Vista,CA
+833,5,5,94515,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+837,9,9,95009,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+841,13,13,94020,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+843,15,15,94915,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+845,17,17,94802,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+847,19,19,95155,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+849,21,21,94567,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+855,27,27,95688,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+857,29,29,94589,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+859,31,31,95462,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+861,33,33,94539,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+863,35,35,95153,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+865,37,37,94708,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+869,41,41,94505,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.9699,PST,-121.3067,OZONE,Stockton,CA
+871,43,43,95430,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+873,45,45,95103,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+875,47,47,94402,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+877,49,49,94555,49,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+879,51,51,95101,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+881,53,53,94612,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+883,55,55,94579,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+885,57,57,94111,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+887,59,59,94027,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+888,60,60,94610,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+890,62,62,95151,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+892,64,64,95117,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+894,66,66,94611,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+896,68,68,94927,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+898,70,70,94109,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+900,72,72,94535,44,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+902,74,74,94903,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+904,76,76,94115,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+906,78,78,94952,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+910,82,82,94560,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+912,84,84,94577,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+914,86,86,94587,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+916,88,88,94070,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+919,91,91,95436,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+921,93,93,95439,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+923,95,95,94061,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+927,99,99,94609,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+929,101,101,94965,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+931,103,103,95687,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+933,105,105,94516,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+937,109,109,94546,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+941,113,113,94537,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+943,115,115,95138,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+945,117,117,95377,45,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.9699,PST,-121.3067,OZONE,Stockton,CA
+947,119,119,95452,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+949,121,121,95154,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+951,123,123,95011,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+953,125,125,95401,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+955,127,127,94920,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+958,130,130,94805,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+964,136,136,95173,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+966,138,138,95616,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.5448,PST,-121.7411,OZONE,Davis,CA
+968,140,140,94519,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+970,142,142,95109,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+972,144,144,94707,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+974,146,146,94523,49,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+976,148,148,94542,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+978,150,150,94954,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+980,152,152,94105,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+982,154,154,94403,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+984,156,156,94569,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+986,158,158,95472,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+990,162,162,94951,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+992,164,164,95056,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+996,168,168,95120,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+998,170,170,94548,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,38.2183,PST,-121.77,PM2.5,Rio Vista,CA
+1001,173,173,94605,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1003,175,175,94014,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1007,179,179,95135,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1009,181,181,94912,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1011,183,183,95192,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1013,185,185,94972,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1015,187,187,94064,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1016,188,188,94088,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1018,190,190,95055,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1020,192,192,94130,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1022,194,194,94510,41,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+1028,200,200,94973,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1030,202,202,94585,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+1032,204,204,94501,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1034,206,206,94534,51,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+1036,208,208,95419,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1038,210,210,94102,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1040,212,212,95403,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1044,216,216,94021,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1045,217,217,94952,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1047,219,219,94613,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1049,221,221,94701,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1051,223,223,95172,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1053,225,225,94591,41,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+1055,227,227,95116,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1057,229,229,94520,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1060,232,232,95032,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1064,236,236,94603,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1068,240,240,95127,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1070,242,242,94979,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1074,246,246,94949,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1076,248,248,95050,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1080,252,252,94141,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1082,254,254,94506,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1086,258,258,95054,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1088,260,260,94146,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1094,266,266,94931,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1096,268,268,95170,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1098,270,270,94404,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1100,272,272,95406,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1104,276,276,94945,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1106,278,278,94043,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1108,280,280,94553,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1110,282,282,95129,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1112,284,284,94922,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1114,286,286,94536,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+1116,288,288,95106,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1120,292,292,94119,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1122,294,294,94039,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1126,298,298,94513,41,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1128,300,300,94018,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1130,302,302,94302,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1132,304,304,95148,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1134,306,306,94904,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1136,308,308,94530,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1138,310,310,94503,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+1140,312,312,95036,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1142,314,314,94158,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1144,316,316,95035,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1146,318,318,94110,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1148,320,320,94122,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1150,322,322,94502,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1152,324,324,94941,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1154,326,326,95157,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1156,328,328,95405,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1158,330,330,94608,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1160,332,332,95442,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1166,338,338,94188,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1168,340,340,94619,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1172,344,344,95015,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1174,346,346,94939,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1176,348,348,94147,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1178,350,350,95620,42,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+1180,352,352,94709,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1182,354,354,94937,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1185,357,357,94623,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1187,359,359,94924,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1189,361,361,94060,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1191,363,363,94803,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1193,365,365,94128,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1197,369,369,95130,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1199,371,371,94578,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1203,375,375,94575,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1205,377,377,94807,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1207,379,379,94028,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1209,381,381,94511,56,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.2183,PST,-121.77,PM2.5,Rio Vista,CA
+1210,382,382,94552,74,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1212,384,384,94977,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1215,387,387,95128,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1217,389,389,94956,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1221,393,393,95033,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1223,395,395,94597,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1225,397,397,94592,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+1227,399,399,94085,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1229,401,401,94126,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1231,403,403,95118,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1233,405,405,94940,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1235,407,407,94514,41,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1237,409,409,94303,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1239,411,411,95002,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+1243,415,415,94551,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1245,417,417,95013,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1247,419,419,94129,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1249,421,421,95123,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1251,423,423,94547,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1253,425,425,94159,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1255,427,427,94019,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1257,429,429,95476,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1259,431,431,95473,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1261,433,433,94521,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1263,435,435,94559,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+1265,437,437,95111,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1267,439,439,94624,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1269,441,441,94503,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+1271,443,443,95407,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1273,445,445,94143,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1275,447,447,95131,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1277,449,449,94702,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1281,453,453,94062,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1283,455,455,94928,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1285,457,457,95160,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1287,459,459,94005,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1289,461,461,94570,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1291,463,463,95113,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1293,465,465,94964,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1295,467,467,95696,35,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+1299,471,471,94134,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1301,473,473,94947,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1303,475,475,95694,42,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+1305,477,477,94024,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1307,479,479,94576,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1309,481,481,94556,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1311,483,483,94065,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1313,485,485,95402,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1315,487,487,94602,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1317,489,489,94574,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1323,495,495,94117,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1327,499,499,94706,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1329,501,501,95070,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1331,503,503,95164,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1333,505,505,95139,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1335,507,507,94533,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+1337,509,509,94132,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1339,511,511,94588,49,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1341,513,513,94028,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1343,515,515,94074,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1347,519,519,94562,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+1349,521,521,94596,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1351,523,523,95465,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1353,525,525,94134,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1355,527,527,94086,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1357,529,529,94089,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1359,531,531,94564,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1361,533,533,95112,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1363,535,535,94704,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1365,537,537,94615,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1369,541,541,94970,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1371,543,543,95448,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1373,545,545,94066,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1375,547,547,94586,41,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1377,549,549,94125,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1381,553,553,94164,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1383,555,555,95391,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1385,557,557,95487,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+1387,559,559,95150,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1389,561,561,94606,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1391,563,563,94621,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1393,565,565,94976,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1395,567,567,95037,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1397,569,569,94522,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1399,571,571,95444,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1401,573,573,95119,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1403,575,575,94804,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1405,577,577,94538,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+1407,579,579,94581,48,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+1411,583,583,95134,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1413,585,585,95486,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1415,587,587,94614,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1417,589,589,95014,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1421,593,593,94025,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1423,595,595,94301,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1425,597,597,94507,39,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1431,603,603,95445,44,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,39.4117,PST,-123.3526,OZONE,Mendocino County,CA
+1434,606,606,95156,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1436,608,608,94010,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1438,610,610,95159,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1440,612,612,94035,49,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+1442,614,614,95125,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1444,616,616,94544,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+1448,620,620,95618,39,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.5448,PST,-121.7411,OZONE,Davis,CA
+1450,622,622,94026,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1451,623,623,94124,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1453,625,625,94806,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1455,627,627,94558,48,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+1457,629,629,94604,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1459,631,631,95136,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1463,635,635,94914,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1465,637,637,94568,49,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1467,639,639,95141,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1469,641,641,94963,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1471,643,643,94037,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1473,645,645,94063,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1477,649,649,94509,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+1479,651,651,94017,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1481,653,653,94974,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1483,655,655,94112,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1485,657,657,94517,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1487,659,659,94401,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1491,663,663,94558,153,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-15 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+1496,668,668,94083,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1498,670,670,95140,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1502,674,674,94957,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1504,676,676,94599,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+1506,678,678,94966,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1508,680,680,94929,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1510,682,682,95031,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1512,684,684,94925,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1514,686,686,95132,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1516,688,688,94550,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1518,690,690,94508,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1520,692,692,94551,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1530,702,702,94710,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1532,704,704,94518,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1534,706,706,94131,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1536,708,708,95126,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1543,715,715,95446,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1545,717,717,94108,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1547,719,719,94305,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1549,721,721,95008,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1555,727,727,94123,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1557,729,729,94127,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1559,731,731,94140,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1563,735,735,95476,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1565,737,737,94565,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1567,739,739,95191,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1569,741,741,94703,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1571,743,743,95133,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1573,745,745,94044,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1575,747,747,94960,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1577,749,749,94080,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1581,753,753,94850,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1583,755,755,94557,49,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+1586,758,758,94938,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1588,760,760,94545,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+1590,762,762,95121,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1592,764,764,94705,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1594,766,766,94712,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1596,768,768,94512,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+1598,770,770,95404,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1600,772,772,95122,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1602,774,774,94022,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1604,776,776,94820,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1606,778,778,95690,34,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.4086,PST,-121.3733,OZONE,Elk Grove,CA
+1608,780,780,94041,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1611,783,783,94901,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1613,785,785,94923,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1617,789,789,94590,47,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+1619,791,791,94133,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1621,793,793,94116,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1623,795,795,94566,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1625,797,797,94103,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1627,799,799,95051,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1629,801,801,94620,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1631,803,803,94515,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1633,805,805,94104,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1635,807,807,94580,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+1637,809,809,94543,49,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+1639,811,811,94118,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1641,813,813,94002,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1643,815,815,94611,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1645,817,817,94549,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1649,821,821,95046,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1651,823,823,94706,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1653,825,825,95409,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1655,827,827,94030,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1657,829,829,94121,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1659,831,831,94563,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1661,833,833,94304,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1662,0,0,95407,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1664,2,2,94966,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1666,4,4,95035,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1668,6,6,95108,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1670,8,8,94942,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1674,12,12,94588,74,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1678,16,16,95486,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1680,18,18,94129,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1686,24,24,94569,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1688,26,26,95023,40,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,36.8442,PST,-121.361,OZONE,Hollister,CA
+1695,33,33,94931,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1697,35,35,94951,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1701,39,39,94020,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1703,41,41,95421,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1709,47,47,94618,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1715,53,53,94576,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1717,55,55,94122,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1719,57,57,94597,39,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1721,59,59,94132,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1727,65,65,94806,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1729,67,67,95148,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1733,71,71,94565,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1735,73,73,94158,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1741,79,79,94706,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1743,81,81,94559,64,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+1749,87,87,94970,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1751,89,89,94125,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1753,91,91,94924,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1755,93,93,94913,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1757,95,95,94555,34,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+1759,97,97,95161,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1767,105,105,94305,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1773,111,111,94404,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1775,113,113,94118,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1777,115,115,94956,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1779,117,117,94019,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1781,119,119,95448,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1785,123,123,94188,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1787,125,125,94025,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1789,127,127,94306,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1791,129,129,94128,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1797,135,135,94614,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1799,137,137,94513,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1801,139,139,94024,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1803,141,141,95051,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1805,143,143,94573,44,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+1809,147,147,94720,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1815,153,153,94938,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1817,155,155,94703,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1819,157,157,95401,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1821,159,159,95472,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1825,163,163,94109,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1827,165,165,94507,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1829,167,167,94976,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1835,173,173,94030,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1837,175,175,95030,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1839,177,177,95014,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1841,179,179,94578,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1843,181,181,94572,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1845,183,183,95436,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1847,185,185,94567,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1849,187,187,94124,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1851,189,189,94103,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1855,193,193,94519,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1859,197,197,95141,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1861,199,199,95122,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1863,201,201,94060,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1864,202,202,95070,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1866,204,204,94596,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1868,206,206,95113,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1870,208,208,95133,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1872,210,210,95056,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1874,212,212,94581,153,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-15 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
+1875,213,213,95116,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1877,215,215,94929,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1879,217,217,95033,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1881,219,219,95625,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+1887,225,225,94127,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1889,227,227,94604,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1891,229,229,94974,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1893,231,231,95032,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1895,233,233,95452,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1897,235,235,95445,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,39.4117,PST,-123.3526,OZONE,Mendocino County,CA
+1902,240,240,95119,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1904,242,242,94538,49,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+1905,243,243,95140,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1907,245,245,94551,43,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1909,247,247,94112,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1911,249,249,95054,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1913,251,251,94805,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1915,253,253,94074,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1919,257,257,94521,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1923,261,261,94017,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1925,263,263,95052,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1927,265,265,94303,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1929,267,267,95071,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1931,269,269,94947,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1935,273,273,94588,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1937,275,275,94041,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1938,276,276,94506,49,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1940,278,278,94005,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+1942,280,280,94022,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1944,282,282,94598,39,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1946,284,284,94040,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1952,290,290,94518,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+1954,292,292,94511,98,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,38.2183,PST,-121.77,PM2.5,Rio Vista,CA
+1955,293,293,94497,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+1957,295,295,95101,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1959,297,297,94923,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1961,299,299,94972,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1963,301,301,95117,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1965,303,303,95111,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1969,307,307,94550,43,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1971,309,309,95013,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1975,313,313,94088,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1983,321,321,94702,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+1987,325,325,95126,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1989,327,327,94568,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1991,329,329,94564,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+1993,331,331,94954,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+1995,333,333,95151,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+1997,335,335,94568,43,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+1999,337,337,94971,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2005,343,343,94039,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2009,347,347,94574,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2011,349,349,95158,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2015,353,353,94159,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2017,355,355,94064,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2021,359,359,94517,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+2023,361,361,94557,71,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+2025,363,363,94516,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2027,365,365,94915,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2029,367,367,94574,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2031,369,369,95191,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2033,371,371,94015,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2035,373,373,95123,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2041,379,379,94928,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2043,381,381,94549,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+2045,383,383,94119,20,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2049,387,387,94544,49,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+2051,389,389,94020,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2053,391,391,94550,74,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+2055,393,393,94948,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2057,395,395,94579,49,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+2059,397,397,94582,43,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+2061,399,399,95687,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+2065,403,403,94023,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2067,405,405,94575,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2071,409,409,94546,49,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+2072,410,410,94603,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2074,412,412,95391,40,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+2082,420,420,95136,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2084,422,422,94613,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2090,428,428,95402,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2093,431,431,95050,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2095,433,433,94946,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2097,435,435,95139,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2099,437,437,95156,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2101,439,439,95008,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2103,441,441,94115,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2107,445,445,95152,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2109,447,447,94117,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2111,449,449,94514,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+2113,451,451,95132,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2119,457,457,94085,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2123,461,461,94710,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2127,465,465,94503,48,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+2131,469,469,94599,39,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,38.33,PST,-122.28,OZONE,Napa,CA
+2135,473,473,94978,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2137,475,475,94587,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+2143,481,481,94143,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2151,489,489,94530,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2153,491,491,94543,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+2157,495,495,94021,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2159,497,497,95055,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2161,499,499,95441,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2165,503,503,94571,137,"{'Number': 3, 'Name': 'Unhealthy for Sensitive Groups'}",2017-10-13 ,0,38.2183,PST,-121.77,PM2.5,Rio Vista,CA
+2170,508,508,95037,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2172,510,510,94164,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2176,514,514,95444,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2178,516,516,94089,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2180,518,518,94701,37,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2182,520,520,94960,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2186,524,524,94566,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+2188,526,526,94611,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2190,528,528,94402,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2192,530,530,94933,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2194,532,532,95020,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2196,534,534,94134,31,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2198,536,536,94964,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2200,538,538,94619,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2204,542,542,94541,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+2205,543,543,94850,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2209,547,547,95442,43,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2211,549,549,94301,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2217,555,555,94080,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2221,559,559,94531,49,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+2223,561,561,95035,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2227,565,565,94945,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2229,567,567,94042,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2235,573,573,94937,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2239,577,577,94965,40,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2241,579,579,95409,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2243,581,581,95492,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2245,583,583,95109,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2247,585,585,95419,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2249,587,587,94605,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2251,589,589,94903,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2255,593,593,94108,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2257,595,595,94952,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2259,597,597,94621,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2261,599,599,94608,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2263,601,601,95377,35,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.9699,PST,-121.3067,OZONE,Stockton,CA
+2267,605,605,94940,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2269,607,607,94147,27,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2271,609,609,95125,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2273,611,611,94065,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2275,613,613,95405,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2277,615,615,94070,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2279,617,617,95124,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-09 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2281,619,619,94977,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2285,623,623,95403,34,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2287,625,625,95009,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2293,631,631,94620,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2297,635,635,94520,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+2301,639,639,95192,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2305,643,643,95170,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2309,647,647,94662,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2311,649,649,94526,47,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+2313,651,651,95011,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2315,653,653,94553,49,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+2317,655,655,95135,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2319,657,657,94611,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2323,661,661,94111,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2325,663,663,94705,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2329,667,667,94010,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2330,668,668,94540,34,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+2334,672,672,94505,33,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.9699,PST,-121.3067,OZONE,Stockton,CA
+2336,674,674,94583,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+2338,676,676,94666,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2340,678,678,94130,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2342,680,680,95696,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+2344,682,682,94525,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+2346,684,684,95112,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2350,688,688,94803,45,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2352,690,690,95461,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2354,692,692,95618,40,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.5448,PST,-121.7411,OZONE,Davis,CA
+2358,696,696,94512,44,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+2362,700,700,94595,49,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.03,OZONE,Concord,CA
+2366,704,704,95127,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2370,708,708,94028,58,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2374,712,712,95620,40,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,38.3525,PST,-121.9617,OZONE,Vacaville,CA
+2378,716,716,95106,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-11 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2380,718,718,94401,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2382,720,720,94533,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+2386,724,724,95690,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,38.4086,PST,-121.3733,OZONE,Elk Grove,CA
+2390,728,728,94807,43,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2392,730,730,94615,42,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2396,734,734,95031,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2398,736,736,94551,41,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.68,PST,-121.77,OZONE,Livermore,CA
+2400,738,738,95404,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2411,749,749,94537,48,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+2415,753,753,94535,41,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+2417,755,755,94107,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2423,761,761,94018,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2426,764,764,94957,35,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2430,768,768,94505,38,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.9699,PST,-121.3067,OZONE,Stockton,CA
+2432,770,770,95439,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2438,776,776,94062,35,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2441,779,779,95160,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-12 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2443,781,781,94561,54,"{'Number': 2, 'Name': 'Moderate'}",2017-10-13 ,0,38.25,PST,-122.04,OZONE,Fairfield,CA
+2445,783,783,94580,44,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.55,PST,-122.03,OZONE,Fremont,CA
+2447,785,785,95159,67,"{'Number': 2, 'Name': 'Moderate'}",2017-10-15 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2449,787,787,95473,49,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2451,789,789,94704,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2453,791,791,94939,61,"{'Number': 2, 'Name': 'Moderate'}",2017-10-10 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2457,795,795,94061,47,"{'Number': 1, 'Name': 'Good'}",2017-10-12 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2459,797,797,94027,44,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.48,PST,-122.22,OZONE,Redwood City,CA
+2463,801,801,94820,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2466,804,804,94126,34,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2468,806,806,94104,28,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2470,808,808,94930,31,"{'Number': 1, 'Name': 'Good'}",2017-10-11 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2474,812,812,94121,27,"{'Number': 1, 'Name': 'Good'}",2017-10-13 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2476,814,814,94927,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,38.45,PST,-122.7,OZONE,Santa Rosa,CA
+2478,816,816,94140,31,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.75,PST,-122.43,OZONE,San Francisco,CA
+2480,818,818,94952,43,"{'Number': 1, 'Name': 'Good'}",2017-10-15 ,0,37.97,PST,-122.52,OZONE,San Rafael,CA
+2482,820,820,94501,41,"{'Number': 1, 'Name': 'Good'}",2017-10-09 ,0,37.8,PST,-122.27,OZONE,Oakland,CA
+2484,822,822,94087,44,"{'Number': 1, 'Name': 'Good'}",2017-10-10 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2490,828,828,95134,43,"{'Number': 1, 'Name': 'Good'}",2017-10-14 ,0,37.33,PST,-121.9,OZONE,San Jose,CA
+2494,832,832,94562,153,"{'Number': 4, 'Name': 'Unhealthy'}",2017-10-15 ,0,38.33,PST,-122.28,PM2.5,Napa,CA
