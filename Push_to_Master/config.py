@@ -1,2 +1,2 @@
-api_key = "AIzaSyAW8ytRvL6bPrH-QmyUlTYARc8jfgSait0"
+api_key = "Your Key Here"
 # Source: https://docs.airnowapi.org/HistoricalObservationsByZip/docs
