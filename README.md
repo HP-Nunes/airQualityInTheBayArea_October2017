@@ -1,4 +1,4 @@
-# Air Quality in the San Francisco Bay Area and the 2017 Sonoma Fires, An Observation of Data Trends¶
+# Air Quality in the San Francisco Bay Area and the 2017 Sonoma Fires, An Observation of Data Trends
 04/07/18
 
 The Northern California firestorm of October 2017 were a series of 250 wildfires which burned down over 245,000 acres over six counties, including Napa, Sonoma, and Solano county in the San Francisco Bay Area. These fires are the costliest wildfires on records, surpassing the 1991 Oakland firestorm, and the deadliest week of wildfires in California history with 44 fatalities.
